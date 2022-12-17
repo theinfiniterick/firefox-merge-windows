@@ -5,8 +5,8 @@
 	"version": "1.0.0",
 	"homepage_url": "https://github.com/theinfiniterick/firefox-merge-windows",
 	"permissions": [
-		"tabs",
-		"contextMenus"
+		"contextMenus",
+		"tabs"
 	],
 	"background": {
 		"scripts": ["background.js"]
